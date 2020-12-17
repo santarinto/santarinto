@@ -1,9 +1,7 @@
 
 <h1 align="center">Glazkov V Ilya aka Santarinto GitHub Profile README</h1>
 
-<p align="center">
-    [![time tracker](https://wakatime.com/badge/bitbucket/santarinto/code.svg)](https://wakatime.com/badge/bitbucket/santarinto/code)
-</p>
+<a href="https://wakatime.com/badge/bitbucket/santarinto/code"><img src="https://wakatime.com/badge/bitbucket/santarinto/code.svg"></a>
 
 <!-- ### Hi there 👋 -->
 <!--
