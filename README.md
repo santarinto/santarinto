@@ -1,6 +1,10 @@
 
 <h1 align="center">Glazkov V Ilya aka Santarinto GitHub Profile README</h1>
 
+<p align="center">
+    [![time tracker](https://wakatime.com/badge/bitbucket/santarinto/code.svg)](https://wakatime.com/badge/bitbucket/santarinto/code)
+</p>
+
 <!-- ### Hi there 👋 -->
 <!--
 **santarinto/santarinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
