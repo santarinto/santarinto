@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
 PHP        8 hrs 30 mins   ████████████████░░░░░░░░░   63.74 % 
 YAML       1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
