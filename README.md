@@ -2,10 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-PHP        3 hrs 55 mins   ███████████████████░░░░░░   76.09 % 
-Twig       44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-YAML       28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+PHP        3 hrs 23 mins   ███████████████████▓░░░░░   78.96 % 
+Twig       44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.23 % 
+YAML       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
