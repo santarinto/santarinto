@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 Java   1 hr 14 mins    ██████████████████▒░░░░░░   73.67 % 
 Text   26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.33 % 
