@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 PHP        1 hr 35 mins    ███████████████▒░░░░░░░░░   61.91 % 
 Makefile   56 mins         █████████▒░░░░░░░░░░░░░░░   36.68 % 
