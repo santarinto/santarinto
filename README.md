@@ -2,10 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-PHP        1 hr 35 mins    ███████████████▒░░░░░░░░░   61.91 % 
-Makefile   56 mins         █████████▒░░░░░░░░░░░░░░░   36.68 % 
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP          3 hrs 1 min     █████████████████▒░░░░░░░   68.83 % 
+Makefile     1 hr 6 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.32 % 
+JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
