@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
 PHP        10 hrs 41 mins  ██████████████▓░░░░░░░░░░   58.97 % 
 YAML       3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
