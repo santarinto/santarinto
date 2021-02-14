@@ -2,12 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2021 - 12 February, 2021
+Week: 06 February, 2021 - 13 February, 2021
 
-PHP          8 hrs 13 mins   █████████████████████▒░░░   85.98 % 
-Other        39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-XML          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Makefile     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+PHP        8 hrs 13 mins   ██████████████████████░░░   87.55 % 
+Other      39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+XML        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Makefile   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
