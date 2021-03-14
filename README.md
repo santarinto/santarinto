@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
 PHP      5 hrs 57 mins   ████████████████████▓░░░░   82.98 % 
 YAML     38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
