@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2021 - 06 August, 2021
+Week: 01 August, 2021 - 07 August, 2021
 
 PHP        2 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.86 % 
 XML        2 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.57 % 
