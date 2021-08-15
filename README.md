@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
 PHP        3 hrs 13 mins   ███████████████░░░░░░░░░░   60.22 % 
 YAML       1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.18 % 
