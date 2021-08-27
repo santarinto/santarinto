@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2021 - 25 August, 2021
+Week: 20 August, 2021 - 26 August, 2021
 
 Makefile   1 hr 31 mins    ████████████▒░░░░░░░░░░░░   48.84 % 
 PHP        41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
