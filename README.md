@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
 YAML       45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.74 % 
 PHP        31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
