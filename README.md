@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-Java         4 hrs 5 mins    ███████████████████▓░░░░░   79.26 % 
-Makefile     46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Vue.js       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Java       3 hrs 2 mins    ████████████████▒░░░░░░░░   65.71 % 
+Makefile   1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.58 % 
+YAML       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Vue.js     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 <!--END_SECTION:waka-->
