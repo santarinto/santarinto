@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
 Java       2 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   36.45 % 
 Makefile   1 hr 46 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
