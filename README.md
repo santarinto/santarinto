@@ -2,12 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 13 September, 2021
+Week: 08 September, 2021 - 14 September, 2021
 
-Makefile   2 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.48 % 
-PHP        2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 % 
-Java       1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Other      43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-YAML       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Makefile   2 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 % 
+PHP        2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.66 % 
+Java       59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other      45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+YAML       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 <!--END_SECTION:waka-->
