@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
 Makefile   3 hrs 56 mins   ██████████████░░░░░░░░░░░   55.44 % 
 Other      55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
