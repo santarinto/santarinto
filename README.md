@@ -2,9 +2,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-Java   11 mins         ████████████████░░░░░░░░░   64.02 % 
-Text   6 mins          █████████░░░░░░░░░░░░░░░░   35.98 % 
+Docker   28 mins         █████████▒░░░░░░░░░░░░░░░   37.86 % 
+YAML     15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 % 
+Other    12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Bash     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Java     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 <!--END_SECTION:waka-->
