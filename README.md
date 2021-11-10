@@ -2,6 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 November, 2021 - 09 November, 2021
+
+Java             46 mins         █████████████████████████   99.78 % 
 ```
 <!--END_SECTION:waka-->
