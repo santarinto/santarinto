@@ -2,9 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
-Java             2 hrs 59 mins   ████████████████████████▒   96.79 % 
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Java             2 hrs 24 mins   ████████████████████████░   96.04 % 
+GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 <!--END_SECTION:waka-->
