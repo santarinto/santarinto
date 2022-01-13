@@ -2,9 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-sh     29 mins         ███████████████░░░░░░░░░░   60.23 % 
-Text   19 mins         ██████████░░░░░░░░░░░░░░░   39.77 % 
+sh         1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.26 % 
+Text       1 hr 7 mins     █████████▓░░░░░░░░░░░░░░░   39.14 % 
+PHP        33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
